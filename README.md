@@ -8,7 +8,9 @@ Two self-contained studies, each with its data, notebook, and rendered output.
 
 ## 🦷 Dental Practice Analysis
 
-**[Notebook](dental-analysis/notebooks/dental_analysis.ipynb)** · 2,000 procedures · 2022–2024 · public dental procedures dataset
+**[Notebook](dental-analysis/notebooks/dental_analysis.ipynb)** · 2,000 procedures · 2022–2024
+
+> **Data note:** this is an older, publicly available study dataset found online — not records obtained from any dental practice. It contains no patient identifiers (ages are bracketed, providers are generic surnames). The "PDS Health" label in the dashboard footer reflects the dataset's original title, not a data source relationship.
 
 Starts from raw procedure records and works through a set of practice-management questions:
 
